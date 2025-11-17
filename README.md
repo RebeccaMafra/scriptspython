@@ -1,2 +1,2 @@
-# scriptspython
-primeiro repositorio
+# scripts
+scripts em python
