@@ -1,5 +1,3 @@
-# scripts
-scripts em python
 ## Meus Scripts
 
 Este repositório contém os scripts que desenvolvi enquanto pratico programação.
