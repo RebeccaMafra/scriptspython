@@ -1,1 +1,0 @@
-print("olá, mundo ! Estou aprendendo a programar!
